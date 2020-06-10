@@ -2,8 +2,10 @@ package vn.itsol.demo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 import vn.itsol.demo.entity.Member;
@@ -32,5 +34,11 @@ public class HelloController {
     @ModelAttribute("countryList")
     public Map<String, String> getCountryList() {
         return memberService.getCountryList();
+    }
+
+    @PostMapping("/register")
+    public String memberRegister(@ModelAttribute("abc") Member member, ModelMap modelMap) {
+        modelMap.addAttribute("name", member.toString());
+        return "Hello";
     }
 }

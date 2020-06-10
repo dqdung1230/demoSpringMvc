@@ -12,44 +12,44 @@
     <title>Hello, this is register page</title>
 </head>
 <body>
-    <h2> Please input your info</h2>
-    <form:form action="./register" method="GET">
-        <form:label path="name">Name</form:label>
-        <form:input path="name"></form:input>
-        <br/>
-        <br/>
-        <form:label path="age">Age</form:label>
-        <form:input path="age"></form:input>
-        <br/>
-        <br/>
-        <form:label path="username">Username</form:label>
-        <form:input path="username"></form:input>
-        <br/>
-        <br/>
-        <form:label path="password">Password</form:label>
-        <form:input path="password"></form:input>
-        <br/>
-        <br/>
-        <form:label path="adult">Adult</form:label>
-        <form:checkbox path="adult"></form:checkbox>
-        <br/>
-        <br/>
-<form:label path="gender">Gender</form:label>
-        <form:radiobutton value="M" label="male" path="gender"/>
-        <form:radiobutton value="F" label="female" path="gender"/>
-        <br/>
-        <br/>
-        <form:label path="address">Address</form:label>
-        <form:select path="address">
-            <form:option value="NONE" label="select"/>
-            <form:options items="${countryList}"/>
-        </form:select>
-        <br/>
-        <br/>
-        <form:hidden path="hiddenInfor" value="hidenInformation"/>
-        <br/>
-        <br/>
-
-    </form:form>
+<h2> Please input your info</h2>
+<form:form action="./register" method="POST">
+    <form:label path="name">Name</form:label>
+    <form:input path="name"/>
+    <br/>
+    <br/>
+    <form:label path="age">Age</form:label>
+    <form:input path="age"/>
+    <br/>
+    <br/>
+    <form:label path="username">Username</form:label>
+    <form:input path="username"/>
+    <br/>
+    <br/>
+    <form:label path="password">Password</form:label>
+    <form:input path="password"/>
+    <br/>
+    <br/>
+    <form:label path="adult">Adult</form:label>
+    <form:checkbox path="adult"/>
+    <br/>
+    <br/>
+    <form:label path="gender">Gender</form:label>
+    <form:radiobutton value="M" label="male" path="gender"/>
+    <form:radiobutton value="F" label="female" path="gender"/>
+    <br/>
+    <br/>
+    <form:label path="country">Address</form:label>
+    <form:select path="country">
+        <form:option value="NONE" label="select"/>
+        <form:options items="${countryList}"/>
+    </form:select>
+    <br/>
+    <br/>
+    <form:hidden path="hiddenInfor" value="hidenInformation"/>
+    <br/>
+    <br/>
+    <button type="submit">Submit</button>
+</form:form>
 </body>
 </html>
