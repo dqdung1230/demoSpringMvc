@@ -1,0 +1,20 @@
+{
+  "project": "AI Lotto",
+  "product": "Lotto 5/35",
+  "database_version": "v4.0",
+  "base_history": "power535_v4.jsonl",
+  "history": {
+    "draw_start": 1,
+    "draw_end": 741,
+    "date_start": "2025-06-29",
+    "date_end": "2026-07-04",
+    "integrity_score": 100,
+    "missing_draws": 0,
+    "duplicate_draws": 0
+  },
+  "update_policy": {
+    "base_history": "GitHub managed",
+    "incremental_source": "Official Vietlott",
+    "append_after_draw": 741
+  }
+}

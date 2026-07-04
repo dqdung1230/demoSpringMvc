@@ -1,0 +1,17 @@
+{
+  "version": "v1",
+  "status": "initialized",
+  "records": [],
+  "schema": {
+    "draw_id": "string",
+    "prediction_time": "ISO8601",
+    "model_version": "string",
+    "recommendations": {
+      "bao4": [],
+      "top_numbers": []
+    },
+    "actual_result": null,
+    "score": null,
+    "notes": ""
+  }
+}

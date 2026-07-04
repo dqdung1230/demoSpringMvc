@@ -1,0 +1,16 @@
+{
+  "version": "v1",
+  "status": "initialized",
+  "description": "Cache for computed analytics rebuilt after Update Data.",
+  "modules": {
+    "frequency": null,
+    "hot_cold": null,
+    "gap_analysis": null,
+    "rolling_trend": null,
+    "pair_network": null,
+    "bao_optimizer": null,
+    "ai_rating": null,
+    "dashboard": null,
+    "backtest": null
+  }
+}
