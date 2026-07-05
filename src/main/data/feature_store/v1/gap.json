@@ -1,0 +1,177 @@
+{
+  "01": {
+    "currentGap": 3,
+    "maxGap": 32,
+    "averageGap": 6.67
+  },
+  "02": {
+    "currentGap": 14,
+    "maxGap": 40,
+    "averageGap": 7.96
+  },
+  "03": {
+    "currentGap": 2,
+    "maxGap": 27,
+    "averageGap": 6.87
+  },
+  "04": {
+    "currentGap": 0,
+    "maxGap": 31,
+    "averageGap": 7.82
+  },
+  "05": {
+    "currentGap": 1,
+    "maxGap": 43,
+    "averageGap": 8.16
+  },
+  "06": {
+    "currentGap": 2,
+    "maxGap": 54,
+    "averageGap": 7.44
+  },
+  "07": {
+    "currentGap": 21,
+    "maxGap": 37,
+    "averageGap": 6.98
+  },
+  "08": {
+    "currentGap": 3,
+    "maxGap": 32,
+    "averageGap": 6.87
+  },
+  "09": {
+    "currentGap": 4,
+    "maxGap": 39,
+    "averageGap": 7.75
+  },
+  "10": {
+    "currentGap": 5,
+    "maxGap": 24,
+    "averageGap": 6.18
+  },
+  "11": {
+    "currentGap": 1,
+    "maxGap": 34,
+    "averageGap": 6.54
+  },
+  "12": {
+    "currentGap": 7,
+    "maxGap": 47,
+    "averageGap": 8.82
+  },
+  "13": {
+    "currentGap": 3,
+    "maxGap": 31,
+    "averageGap": 7.06
+  },
+  "14": {
+    "currentGap": 4,
+    "maxGap": 32,
+    "averageGap": 5.93
+  },
+  "15": {
+    "currentGap": 2,
+    "maxGap": 33,
+    "averageGap": 6.54
+  },
+  "16": {
+    "currentGap": 25,
+    "maxGap": 52,
+    "averageGap": 8.41
+  },
+  "17": {
+    "currentGap": 5,
+    "maxGap": 34,
+    "averageGap": 7.32
+  },
+  "18": {
+    "currentGap": 23,
+    "maxGap": 61,
+    "averageGap": 6.75
+  },
+  "19": {
+    "currentGap": 10,
+    "maxGap": 32,
+    "averageGap": 6.64
+  },
+  "20": {
+    "currentGap": 1,
+    "maxGap": 31,
+    "averageGap": 6.27
+  },
+  "21": {
+    "currentGap": 5,
+    "maxGap": 33,
+    "averageGap": 7.16
+  },
+  "22": {
+    "currentGap": 0,
+    "maxGap": 26,
+    "averageGap": 6.29
+  },
+  "23": {
+    "currentGap": 13,
+    "maxGap": 29,
+    "averageGap": 6.47
+  },
+  "24": {
+    "currentGap": 17,
+    "maxGap": 34,
+    "averageGap": 7.36
+  },
+  "25": {
+    "currentGap": 0,
+    "maxGap": 36,
+    "averageGap": 7.04
+  },
+  "26": {
+    "currentGap": 6,
+    "maxGap": 30,
+    "averageGap": 6.44
+  },
+  "27": {
+    "currentGap": 6,
+    "maxGap": 45,
+    "averageGap": 6.9
+  },
+  "28": {
+    "currentGap": 0,
+    "maxGap": 26,
+    "averageGap": 6.3
+  },
+  "29": {
+    "currentGap": 6,
+    "maxGap": 32,
+    "averageGap": 6.67
+  },
+  "30": {
+    "currentGap": 1,
+    "maxGap": 33,
+    "averageGap": 6.67
+  },
+  "31": {
+    "currentGap": 4,
+    "maxGap": 25,
+    "averageGap": 7.72
+  },
+  "32": {
+    "currentGap": 6,
+    "maxGap": 39,
+    "averageGap": 7.56
+  },
+  "33": {
+    "currentGap": 3,
+    "maxGap": 33,
+    "averageGap": 6.54
+  },
+  "34": {
+    "currentGap": 1,
+    "maxGap": 32,
+    "averageGap": 5.73
+  },
+  "35": {
+    "currentGap": 0,
+    "maxGap": 30,
+    "averageGap": 7.27
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "buildVersion": "1.0",
+  "lastDraw": 741,
+  "numbers": {
+    "01": {
+      "total": 111,
+      "last30": 2,
+      "last50": 6,
+      "last100": 14,
+      "lastSeenDraw": 738,
+      "lastSeenDate": "2026-07-02",
+      "appearanceRate": 3.0
+    },
+    "02": {
+      "total": 92,
+      "last30": 4,
+      "last50": 4,
+      "last100": 11,
+      "lastSeenDraw": 727,
+      "lastSeenDate": "2026-06-27",
+      "appearanceRate": 2.48
+    },
+    "03": {
+      "total": 107,
+      "last30": 3,
+      "last50": 5,
+      "last100": 9,
+      "lastSeenDraw": 739,
+      "lastSeenDate": "2026-07-03",
+      "appearanceRate": 2.89
+    },
+    "04": {
+      "total": 91,
+      "last30": 4,
+      "last50": 6,
+      "last100": 15,
+      "lastSeenDraw": 741,
+      "lastSeenDate": "2026-07-04",
+      "appearanceRate": 2.46
+    },
+    "05": {
+      "total": 91,
+      "last30": 7,
+      "last50": 8,
+      "last100": 16,
+      "lastSeenDraw": 740,
+      "lastSeenDate": "2026-07-03",
+      "appearanceRate": 2.46
+    },
+    "06": {
+      "total": 100,
+      "last30": 7,
+      "last50": 8,
+      "last100": 17,
+      "lastSeenDraw": 739,
+      "lastSeenDate": "2026-07-03",
+      "appearanceRate": 2.7
+    },
+    "07": {
+      "total": 104,
+      "last30": 1,
+      "last50": 1,
+      "last100": 8,
+      "lastSeenDraw": 720,
+      "lastSeenDate": "2026-06-23",
+      "appearanceRate": 2.81
+    },
+    "08": {
+      "total": 108,
+      "last30": 7,
+      "last50": 9,
+      "last100": 16,
+      "lastSeenDraw": 738,
+      "lastSeenDate": "2026-07-02",
+      "appearanceRate": 2.91
+    },
+    "09": {
+      "total": 96,
+      "last30": 6,
+      "last50": 7,
+      "last100": 13,
+      "lastSeenDraw": 737,
+      "lastSeenDate": "2026-07-02",
+      "appearanceRate": 2.59
+    },
+    "10": {
+      "total": 120,
+      "last30": 7,
+      "last50": 9,
+      "last100": 16,
+      "lastSeenDraw": 736,
+      "lastSeenDate": "2026-07-01",
+      "appearanceRate": 3.24
+    },
+    "11": {
+      "total": 113,
+      "last30": 4,
+      "last50": 6,
+      "last100": 15,
+      "lastSeenDraw": 740,
+      "lastSeenDate": "2026-07-03",
+      "appearanceRate": 3.05
+    },
+    "12": {
+      "total": 84,
+      "last30": 3,
+      "last50": 6,
+      "last100": 8,
+      "lastSeenDraw": 734,
+      "lastSeenDate": "2026-06-30",
+      "appearanceRate": 2.27
+    },
+    "13": {
+      "total": 105,
+      "last30": 2,
+      "last50": 6,
+      "last100": 13,
+      "lastSeenDraw": 738,
+      "lastSeenDate": "2026-07-02",
+      "appearanceRate": 2.83
+    },
+    "14": {
+      "total": 125,
+      "last30": 3,
+      "last50": 7,
+      "last100": 16,
+      "lastSeenDraw": 737,
+      "lastSeenDate": "2026-07-02",
+      "appearanceRate": 3.37
+    },
+    "15": {
+      "total": 112,
+      "last30": 5,
+      "last50": 12,
+      "last100": 20,
+      "lastSeenDraw": 739,
+      "lastSeenDate": "2026-07-03",
+      "appearanceRate": 3.02
+    },
+    "16": {
+      "total": 86,
+      "last30": 1,
+      "last50": 4,
+      "last100": 9,
+      "lastSeenDraw": 716,
+      "lastSeenDate": "2026-06-21",
+      "appearanceRate": 2.32
+    },
+    "17": {
+      "total": 99,
+      "last30": 5,
+      "last50": 8,
+      "last100": 15,
+      "lastSeenDraw": 736,
+      "lastSeenDate": "2026-07-01",
+      "appearanceRate": 2.67
+    },
+    "18": {
+      "total": 107,
+      "last30": 4,
+      "last50": 8,
+      "last100": 18,
+      "lastSeenDraw": 718,
+      "lastSeenDate": "2026-06-22",
+      "appearanceRate": 2.89
+    },
+    "19": {
+      "total": 111,
+      "last30": 4,
+      "last50": 10,
+      "last100": 15,
+      "lastSeenDraw": 731,
+      "lastSeenDate": "2026-06-29",
+      "appearanceRate": 3.0
+    },
+    "20": {
+      "total": 118,
+      "last30": 3,
+      "last50": 6,
+      "last100": 11,
+      "lastSeenDraw": 740,
+      "lastSeenDate": "2026-07-03",
+      "appearanceRate": 3.18
+    },
+    "21": {
+      "total": 98,
+      "last30": 4,
+      "last50": 6,
+      "last100": 12,
+      "lastSeenDraw": 736,
+      "lastSeenDate": "2026-07-01",
+      "appearanceRate": 2.65
+    },
+    "22": {
+      "total": 116,
+      "last30": 6,
+      "last50": 9,
+      "last100": 18,
+      "lastSeenDraw": 741,
+      "lastSeenDate": "2026-07-04",
+      "appearanceRate": 3.13
+    },
+    "23": {
+      "total": 113,
+      "last30": 3,
+      "last50": 8,
+      "last100": 16,
+      "lastSeenDraw": 728,
+      "lastSeenDate": "2026-06-27",
+      "appearanceRate": 3.05
+    },
+    "24": {
+      "total": 99,
+      "last30": 2,
+      "last50": 6,
+      "last100": 14,
+      "lastSeenDraw": 724,
+      "lastSeenDate": "2026-06-25",
+      "appearanceRate": 2.67
+    },
+    "25": {
+      "total": 106,
+      "last30": 2,
+      "last50": 4,
+      "last100": 10,
+      "lastSeenDraw": 741,
+      "lastSeenDate": "2026-07-04",
+      "appearanceRate": 2.86
+    },
+    "26": {
+      "total": 112,
+      "last30": 5,
+      "last50": 9,
+      "last100": 18,
+      "lastSeenDraw": 735,
+      "lastSeenDate": "2026-07-01",
+      "appearanceRate": 3.02
+    },
+    "27": {
+      "total": 107,
+      "last30": 5,
+      "last50": 8,
+      "last100": 16,
+      "lastSeenDraw": 735,
+      "lastSeenDate": "2026-07-01",
+      "appearanceRate": 2.89
+    },
+    "28": {
+      "total": 118,
+      "last30": 6,
+      "last50": 7,
+      "last100": 16,
+      "lastSeenDraw": 741,
+      "lastSeenDate": "2026-07-04",
+      "appearanceRate": 3.18
+    },
+    "29": {
+      "total": 110,
+      "last30": 9,
+      "last50": 12,
+      "last100": 15,
+      "lastSeenDraw": 735,
+      "lastSeenDate": "2026-07-01",
+      "appearanceRate": 2.97
+    },
+    "30": {
+      "total": 111,
+      "last30": 2,
+      "last50": 4,
+      "last100": 6,
+      "lastSeenDraw": 740,
+      "lastSeenDate": "2026-07-03",
+      "appearanceRate": 3.0
+    },
+    "31": {
+      "total": 94,
+      "last30": 5,
+      "last50": 7,
+      "last100": 13,
+      "lastSeenDraw": 737,
+      "lastSeenDate": "2026-07-02",
+      "appearanceRate": 2.54
+    },
+    "32": {
+      "total": 97,
+      "last30": 4,
+      "last50": 6,
+      "last100": 13,
+      "lastSeenDraw": 735,
+      "lastSeenDate": "2026-07-01",
+      "appearanceRate": 2.62
+    },
+    "33": {
+      "total": 113,
+      "last30": 4,
+      "last50": 12,
+      "last100": 23,
+      "lastSeenDraw": 738,
+      "lastSeenDate": "2026-07-02",
+      "appearanceRate": 3.05
+    },
+    "34": {
+      "total": 129,
+      "last30": 6,
+      "last50": 9,
+      "last100": 20,
+      "lastSeenDraw": 740,
+      "lastSeenDate": "2026-07-03",
+      "appearanceRate": 3.48
+    },
+    "35": {
+      "total": 102,
+      "last30": 5,
+      "last50": 7,
+      "last100": 15,
+      "lastSeenDraw": 741,
+      "lastSeenDate": "2026-07-04",
+      "appearanceRate": 2.75
+    }
+  }
+}
